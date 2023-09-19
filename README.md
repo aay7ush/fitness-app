@@ -8,7 +8,7 @@ Welcome to the Fitness App! This React-based fitness application is designed to 
 
 ## Live Site
 
-Check out the live site [here](https://todo-app-with-dark-theme.netlify.app/).
+Check out the live site [here](https://f1tness-app.netlify.app/).
 
 ## Features
 
